@@ -1,0 +1,19 @@
+[
+ {
+  "directory": "/home/catcat/cpp",
+  "arguments": [
+   "g++",
+   "main.cpp",
+   "-Wall",
+   "-Wextra",
+   "-I/opt/boost/include",
+   "-L/opt/boost/lib",
+   "-I/usr/lib/gcc/x86_64-linux-gnu/11/include",
+   "-I/opt/ac-library",
+   "-std=gnu++17",
+   "-o",
+   "main"
+  ],
+  "file": "main.cpp"
+ }
+]
